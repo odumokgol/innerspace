@@ -191,7 +191,7 @@ body {
 /* 토글 화살표 */
 .toggle-arrow { display: inline-block; }
 .link-btn-toggle.active .toggle-arrow {
-  transform: rotate(90deg);
+  transform: rotate(180deg);
   color: var(--accent);
 }
 
